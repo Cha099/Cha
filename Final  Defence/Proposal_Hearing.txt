@@ -1,0 +1,50 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css">
+        <title>Proposal Hearing</title>
+    </head>
+    <body>
+        <section class="mcc-logo-info">
+            <img class="mcc-logo" src="images/mcc-logo.png" alt="">
+            <img class="mcc-sot-logo" src="images/mcc-sot-logo.png" alt="">
+            <h3>Republic of the Philippines <br> CITY OF MANDAUE <br>MANDAUE CITY COLLEGE <br>Don Andres Soreano
+               Ave., Centro, Mandaue City <br>Telefax No: <span class="mcc-contact"><a href="#">(032)236-5520-420-9228</a></span> Email Add.: <span class="mcc-contact"><a href="mailto:mc.college@hotmail.com" target="_blank">mc.college@hotmail.com</a></span> 
+            </h3>
+        </section>
+        <section class="rlsm">
+            <center><h3>Proposal Hearing</h3>
+            
+            </center>       
+
+	<div class="container2">
+  		<div class="text-block1">
+   	        	
+    				<p>
+				The findings of this study would serve as input. The findings and 
+                                conclusion are to come up with clear approved guidelines on the 
+                                implementation of the software so that it would be clear to see as to who are 
+                                the people responsible for the kiosks. The kiosk should be transferred near the 
+                                Registrar’s office to become part of the basic services of the latter. If budget 
+                                warrants, acquiring an additional unit of kiosk is highly recommended to ease 
+                                the build-up queues of students patiently waiting to have their turn to use the 
+                                system. However, the Institute of Information Technology shall make an 
+                                alternative version of the system such as web-based and/or mobile apps for 
+                                students to be able to access the system from home or anywhere through 
+                                Internet connection. Thus, these require purchasing a web server. The system 
+                                needs to undergo refinement of the system to make sure the continued use. 
+                                There will be a trained software in-charge who may be responsible for the 
+                                registration of students to avoid inaccuracy of account details during the 
+                                registration. At the same time the said personnel or student-personnel will serve 
+                                as the official person to attend students’ query upon notice by the Registrar’s 
+                                office.
+ 		</div>
+	</div>
+    </section>
+
+    </body>
+</html>
